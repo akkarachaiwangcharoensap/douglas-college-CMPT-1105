@@ -1,0 +1,1 @@
+print(format(123.4567,'0.2f')) # print and round the value to 2 decimal places.
